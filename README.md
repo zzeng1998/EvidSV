@@ -3,7 +3,7 @@
 
 ## Overview  
 The **EvidSV** dataset supports research on fake news video detection and multi-view knowledge enhancement.  
-It accompanies the ACM MM 2025 paper:
+It is associated with the ACM MM 2025 paper:
 
 **Paper:**  
 [Understand, Refine and Summarize: Multi-View Knowledge Progressive Enhancement Learning for Fake News Video Detection](https://dl.acm.org/doi/10.1145/3746027.3754551)
@@ -11,15 +11,14 @@ It accompanies the ACM MM 2025 paper:
 ---
 
 ## 📦 Dataset Access  
-**Download:** [Baidu Cloud – EvidSV](https://pan.baidu.com/s/1m7E4xqf1cyKDKzdbLXPLmQ?pwd=vnew)  
-**Extraction Code:** `vnew`
+**Download:** [Baidu Cloud – EvidSV](https://pan.baidu.com/s/13LqePPmr8VVRT_xFRlJPbQ?pwd=zxcv)  
+**Extraction Code:** `zxcv`
 
-> ⚠️ Note: This Baidu Cloud link was shared by a community contributor (Baidu VIP v5).  
+> ⚠️ Note: This Baidu Cloud link was shared by a contributor.  
 > It may not represent the official release from the authors.  
-> Verify usage permissions before redistribution or publication.
+> Please verify usage permissions before redistribution or publication.
 
 ---
 
 ## 📂 Dataset Description  
 The dataset includes video and text data for fake news classification and evidence reasoning.
-
