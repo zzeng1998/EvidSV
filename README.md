@@ -1,4 +1,3 @@
-# EvidSV
 # EvidSV Dataset  
 > Dataset for the paper *“Understand, Refine and Summarize: Multi-View Knowledge Progressive Enhancement Learning for Fake News Video Detection”* (ACM MM 2025)
 
@@ -12,8 +11,8 @@ It accompanies the ACM MM 2025 paper:
 ---
 
 ## 📦 Dataset Access  
-**Download:** [Baidu Cloud – EvidSV](https://pan.baidu.com/s/1aHNRLvXre69vXeGNvSFmCg?pwd=1yat)  
-**Extraction Code:** `1yat`
+**Download:** [Baidu Cloud – EvidSV](https://pan.baidu.com/s/1m7E4xqf1cyKDKzdbLXPLmQ?pwd=vnew)  
+**Extraction Code:** `vnew`
 
 > ⚠️ Note: This Baidu Cloud link was shared by a community contributor (Baidu VIP v5).  
 > It may not represent the official release from the authors.  
@@ -24,4 +23,3 @@ It accompanies the ACM MM 2025 paper:
 ## 📂 Dataset Description  
 The dataset includes video and text data for fake news classification and evidence reasoning.
 
-**Structure Example**
